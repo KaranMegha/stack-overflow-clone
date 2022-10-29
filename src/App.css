@@ -1,0 +1,14 @@
+.home-container-1 {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0% auto;
+    float: left;
+}
+
+.home-container-2 {
+    width: calc(100% - 164px);
+    padding: 24px;
+    box-sizing: border-box;
+}
